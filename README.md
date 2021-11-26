@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @twhlynch
-- 👀 I’m interested in programming with Python/HTML/CSS/PHP
-- 🌱 I’m currently improving my web development skills on a VCE Applied Computing Course
-- 💞️ I’m looking to collaborate on any small web dev projects
+- 👀 I’m interested in programming with Python/HTML/CSS/PHP/JavaScript/Java
+- 🌱 I’m currently improving my web development skills in a VCE Applied Computing Course and i am learning hacking from HackTheBox
+- 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me:
       - twhlynch@gmail.com - imessage/email
       
