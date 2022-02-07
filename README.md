@@ -74,4 +74,4 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" title="Buy me a coffee"/>
 <br />
   
-[![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch)](https://github.com/twhlynch)
+[![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch&theme=dark&show_icons=true)](https://github.com/twhlynch)
