@@ -69,11 +69,11 @@ if __name__ == '__main__':
   
 ![Profile views](https://gpvc.arturio.dev/twhlynch)
 
-<br><br>
+<br>
   
 [![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch&theme=dark&show_icons=true)](https://github.com/twhlynch)
 
-<br><br>
+<br>
 
 
 <h3 align="left">Support Me</h3>
