@@ -68,7 +68,11 @@ if __name__ == '__main__':
 <h3 align="left">Profile Views: 👀</h3>
   
 ![Profile views](https://gpvc.arturio.dev/twhlynch)
- 
+
+<h3 align="left">Support Me</h3>
+<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" title="Buy me a coffee"/>
+  
 <br/>
 <p align="left">
   <a href="https://github.com/twhlynch">
