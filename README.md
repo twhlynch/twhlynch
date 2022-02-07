@@ -59,7 +59,11 @@ if __name__ == '__main__':
   
 
 ## My Statistics
-
+  
+<h3 align="left">Profile Views: 👀</h3>
+  
+![Profile views](https://gpvc.arturio.dev/twhlynch)
+  
 <br/>
 <p align="left">
   <a href="https://github.com/twhlynch">
