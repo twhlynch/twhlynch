@@ -68,4 +68,4 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Tom Lynch's Activity Graph](https://activity-graph.herokuapp.com/graph?username=twhlynch&custom_title=Tom%20Lynch's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Tom Lynch's Activity Graph](https://activity-graph.herokuapp.com/graph?username=twhlynch&custom_title=Tom%20Lynch's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/twhlynch)
