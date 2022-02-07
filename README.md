@@ -79,8 +79,6 @@ if __name__ == '__main__':
   
 ![Profile views](https://gpvc.arturio.dev/twhlynch)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhlynch&theme=chartreuse-dark)](https://github.com/twhlynch) 
- 
 <br/>
 <p align="left">
   <a href="https://github.com/twhlynch">
