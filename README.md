@@ -72,3 +72,6 @@ if __name__ == '__main__':
 <h3 align="left">Support Me</h3>
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" title="Buy me a coffee"/>
+<br />
+  
+[![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch)](https://github.com/twhlynch)
