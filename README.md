@@ -2,7 +2,7 @@
   <b>Tom Lynch</b>
 </h1>
 
-Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web development in highschool, Hacking through HackTheBox, and learning more programming through small projects on the side.
+Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web development in highschool, Hacking through HackTheBox, and learning more programming through small projects on the side.‮
 
 <br>
 
