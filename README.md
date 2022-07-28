@@ -14,23 +14,6 @@ Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web 
 </div>
 </p>
 
-```python
-class TomLynch():
-    
-  def __init__(self):
-    self.name = "Tom Lynch";
-    self.username = "twhlynch";
-    self.location = "Victoria, Australia";
-    self.twitter = "@twhlynch";
-    self.web = "Loading...";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = TomLynch()
-```
-
 ## **What i can do**<br>
 
 <a href="https://github.com/twhlynch">
