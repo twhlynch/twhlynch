@@ -2,7 +2,7 @@
   <b>Tom Lynch</b>
 </h1>
 
-Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web development in highschool, Hacking through HackTheBox, and learning more programming through small projects on the side.‮
+Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web development in highschool, Hacking through HackTheBox, and learning more programming through projects on the side.‮
 
 <br>
 
@@ -31,7 +31,7 @@ if __name__ == '__main__':
     me = TomLynch()
 ```
 
-## **Tech Toolbox🧰**<br>
+## **What i can do**<br>
 
 <a href="https://github.com/twhlynch">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
