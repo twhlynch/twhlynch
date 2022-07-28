@@ -1,47 +1,64 @@
-<h1 align="center">
-  <b>Tom Lynch</b>
-</h1>
+**Hi, I'm Tom!** &#12299;I am a VCE student who loves web development, automation, and cyber security.
 
-Hi, i'm Tom Lynch, a student currently in Victoria, Australia. I'm learning web development in highschool, Hacking through HackTheBox, and learning more programming through projects on the side.‮
+----
 
-<br>
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square)
+![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square)
+![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C++&color=36465D&logoColor=AAA&style=flat-square)
+![c](https://img.shields.io/static/v1?logo=c&label=&message=C&color=36465D&logoColor=AAA&style=flat-square)
+![json](https://img.shields.io/static/v1?logo=json&label=&message=json&color=36465D&logoColor=AAA&style=flat-square)
+<br />
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VScode&color=36465D&logoColor=AAA&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![windows](https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square)
+![flask](https://img.shields.io/static/v1?logo=flask&label=&message=flask&color=36465D&logoColor=AAA&style=flat-square)
+![jquery](https://img.shields.io/static/v1?logo=jquery&label=&message=jQuery&color=36465D&logoColor=AAA&style=flat-square)
+![node](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat-square)
+![pypi](https://img.shields.io/static/v1?logo=pypi&label=&message=pypi&color=36465D&logoColor=AAA&style=flat-square)
+![heroku](https://img.shields.io/static/v1?logo=heroku&label=&message=heroku&color=36465D&logoColor=AAA&style=flat-square)
+
+**VCE Student** &#12299;_learning PHP through Applied Computing 3 & 4_
+<br/>
+**Web Developer** &#12299;_developing detailed & responsive websites_
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <h3>Top Langs</h3>
+  <br />
+  <img src="https://img.shields.io/badge/-Python-58A6FF?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-13233A?style=for-the-badge&logo=html5&logoColor=13233A&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=161B22&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PHP-424242?style=for-the-badge&logo=php&logoColor=424242&labelColor=282828">
+  <img src="https://img.shields.io/badge/-C++-BEC6CE?style=for-the-badge&logo=cplusplus&logoColor=BEC6CE&labelColor=282828">
 </div>
 </p>
 
-## **What i can do**<br>
+----
 
-<a href="https://github.com/twhlynch">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://twitter.com/twhlynch">
+  <img align="left" alt="Tom's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/30363d" />
+</a>
+<a href="https://www.linkedin.com/in/tom-lynch-5b9245231">
+  <img align="left" alt="Tom's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/30363d" />
+</a>
+<a href="https://stackoverflow.com/users/15969287/tom-lynch">
+  <img align="left" alt="Tom's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/30363d" />
 </a>
 
-<div>
-<h2  > Connect with me</h2>
-  
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tom-lynch-5b9245231)
-<br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/15969287/tom-lynch)
-<br><br>
-[<img align="top" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/twhlynch)
-<br><br>
-  
+| &nbsp;&nbsp;&nbsp; Website : [https://index.me](https://index.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
+
+
+
+
+
+
+
   
 ## My Statistics
   
