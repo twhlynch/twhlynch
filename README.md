@@ -41,6 +41,18 @@
 
 ----
 
+<h3 align="left">Profile Views: 👀</h3>
+  
+![Profile views](https://gpvc.arturio.dev/twhlynch)
+
+<br>
+  
+[![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch&theme=dark&show_icons=true)](https://github.com/twhlynch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhlynch&theme=dark&show_icons=true&layout=compact)](https://github.com/twhlynch)
+<br>
+
+----
+
 <a href="https://twitter.com/twhlynch">
   <img align="left" alt="Tom's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/30363d" />
 </a>
@@ -52,22 +64,3 @@
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://index.me](https://index.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
-
-
-
-
-
-
-
-  
-## My Statistics
-  
-<h3 align="left">Profile Views: 👀</h3>
-  
-![Profile views](https://gpvc.arturio.dev/twhlynch)
-
-<br>
-  
-[![Tom Lynch's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhlynch&theme=dark&show_icons=true)](https://github.com/twhlynch)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhlynch&theme=dark&show_icons=true&layout=compact)](https://github.com/twhlynch)
-<br>
