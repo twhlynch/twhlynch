@@ -1,4 +1,4 @@
-**Hi, I'm Tom!** &#12299;I am a VCE student who loves web development, automation, and cyber security.
+**Hi, I'm Tom!** &#12299;I am a VCE student who loves web development, automation, modding, and cyber security.
 
 ----
 
@@ -63,4 +63,4 @@
   <img align="left" alt="Tom's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/30363d" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://twhlynch.me](https://twhlynch.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [https://twhlynch.me](https://twhlynch.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
