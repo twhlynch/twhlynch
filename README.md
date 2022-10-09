@@ -53,14 +53,11 @@
 
 ----
 
-<a href="https://twitter.com/twhlynch">
-  <img align="left" alt="Tom's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/30363d" />
+<a href="https://discordapp.com/users/649165311257608192">
+  <img align="left" alt="My Discord" width="20px" src="https://twhlynch.me/img/dc.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tom-lynch-5b9245231">
   <img align="left" alt="Tom's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/30363d" />
-</a>
-<a href="https://stackoverflow.com/users/15969287/tom-lynch">
-  <img align="left" alt="Tom's Stack Overflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/30363d" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [https://twhlynch.me](https://twhlynch.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
