@@ -57,7 +57,7 @@
   <img align="left" alt="My Discord" width="20px" src="https://twhlynch.me/img/dc.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tom-lynch-5b9245231">
-  <img align="left" alt="Tom's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/30363d" />
+  <img align="left" alt="Tom's LinkedIn" width="20px" src="https://twhlynch.me/img/li.svg" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [https://twhlynch.me](https://twhlynch.me) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; My Work : <sub>&#9660; &#9660; &#9660;</sub>
