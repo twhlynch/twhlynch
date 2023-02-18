@@ -36,8 +36,6 @@
 ----
 
 [<img align="left" alt="My LinkedIn" width="20px" src="https://twhlynch.me/img/dc.svg" />](https://discordapp.com/users/649165311257608192)
-<a href="https://www.linkedin.com/in/tom-lynch-5b9245231">
-  <img align="left" alt="My LinkedIn" width="20px" src="https://twhlynch.me/img/li.svg" />
-</a>
+
 
 | &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [twhlynch.me](https://twhlynch.me)
