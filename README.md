@@ -1,6 +1,6 @@
-**Hi, I'm Tom!** &rarr; I am a VCE student who loves web development, automation, modding, and cyber security.
+**Hi, I'm Tom!** &rarr; I am a TAFE student / trainee who loves web development, automation, modding, and cyber security.
 <br/>
-**VCE Student** &rarr; _learning PHP through Applied Computing 3 & 4_
+**IT Traineeship** &rarr; _learning about IT in my traineeship_
 <br/>
 **Web Developer** &rarr; _developing detailed & responsive websites_
 
@@ -21,6 +21,10 @@
   <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square">
 </div>
 </p>
+
+----
+
+<img style="width: 100px" src="https://github.com/twhlynch/twhlynch.github.io/blob/main/img/aws-academy-graduate-aws-academy-cloud-foundations.png">
 
 ----
 
