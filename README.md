@@ -1,4 +1,4 @@
-**Hi, I'm Tom!** &rarr; I am a TAFE student / trainee who loves web development, automation, modding, and cyber security.
+**Hi, I'm twhlynch!** &rarr; I am a TAFE student / trainee who loves web development, automation, modding, and cyber security.
 <br/>
 **IT Traineeship** &rarr; _learning about IT in my traineeship_
 <br/>
