@@ -2,6 +2,8 @@
 <br/>
 **IT Traineeship** &rarr; _learning about IT in my traineeship_
 <br/>
+**AWS Cloud** &rarr; _learning Cloud Development through AWS_
+<br/>
 **Web Developer** &rarr; _developing detailed & responsive websites_
 <br/>
 **VR Gaming** &rarr; _wasting time in virtual reality_
