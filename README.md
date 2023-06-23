@@ -4,6 +4,9 @@
 <br/>
 **AWS Cloud** &rarr; _learning Cloud Development through AWS_
 <br/>
+<img style="width: 20px" src="https://github.com/twhlynch/twhlynch.github.io/blob/main/img/aws-academy-graduate-aws-academy-cloud-foundations.png">
+<img style="width: 20px" src="https://github.com/twhlynch/twhlynch.github.io/blob/main/img/aws-academy-graduate-aws-academy-cloud-developing.png">
+<br/>
 **Web Developer** &rarr; _developing detailed & responsive websites_
 <br/>
 **VR Gaming** &rarr; _wasting time in virtual reality_
@@ -26,10 +29,6 @@
   <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square">
 </div>
 </p>
-
-----
-
-<img style="width: 100px" src="https://github.com/twhlynch/twhlynch.github.io/blob/main/img/aws-academy-graduate-aws-academy-cloud-foundations.png">
 
 ----
   
