@@ -37,7 +37,7 @@
 
 ----
 
-[<img align="left" alt="My LinkedIn" width="20px" src="https://twhlynch.me/img/dc.svg" />](https://discordapp.com/users/649165311257608192)
+[<img align="left" alt="My Discord" width="20px" src="https://twhlynch.me/images/socials/discord.svg" />](https://discordapp.com/users/649165311257608192)
 
 
 | &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [twhlynch.me](https://twhlynch.me)
