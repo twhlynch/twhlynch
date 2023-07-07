@@ -31,13 +31,14 @@
 </p>
 
 ----
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twhlynch&theme=dark&show_icons=true&layout=compact)](https://github.com/twhlynch)
-<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=twhlynch" height="150" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=twhlynch" height="150" alt="top languages"  />
+</div>
 
 ----
 
 [<img align="left" alt="My Discord" width="20px" src="https://twhlynch.me/images/socials/discord.svg" />](https://discordapp.com/users/649165311257608192)
-
 
 | &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [twhlynch.me](https://twhlynch.me)
