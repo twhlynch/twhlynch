@@ -9,13 +9,16 @@
 <br/>
 **Web Developer** &rarr; _developing detailed & responsive websites_
 <br/>
-**VR Gaming** &rarr; _wasting time in virtual reality_
+**VR Gaming** &rarr; _I love Virtual Reality_
+
+
+
+Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [twhlynch.me](https://twhlynch.me)
 
 ----
 
 <p>
 <div align="center">
-  <h3>How I Code</h3>
   <br />
   <img src="https://img.shields.io/badge/-JavaScript-fcde7f?style=for-the-badge&logo=javascript&logoColor=fcde7f&labelColor=282828">
   <img src="https://img.shields.io/badge/-HTML-f78166?style=for-the-badge&logo=html5&logoColor=f78166&labelColor=282828">
@@ -29,9 +32,6 @@
   <img src="https://img.shields.io/static/v1?logo=windows&label=&message=Windows&color=36465D&logoColor=AAA&style=flat-square">
 </div>
 </p>
-
-----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=twhlynch" height="150" alt="github stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=twhlynch" height="150" alt="top languages"  />
@@ -39,6 +39,38 @@
 
 ----
 
-[<img align="left" alt="My Discord" width="20px" src="https://twhlynch.me/images/socials/discord.svg" />](https://discordapp.com/users/649165311257608192)
+[twhlynch.github.io](https://github.com/twhlynch/twhlynch.github.io) - My homepage
 
-| &nbsp;&nbsp;&nbsp; Website (Work In Progress) : [twhlynch.me](https://twhlynch.me)
+**GRAB VR modding tools, resources, and websites**
+
+[BlenderFrames2Grab](https://github.com/twhlynch/BlenderFrames2Grab) - Convert Blender Keyframes To Grab Through BabylonJS.<br>
+[grab-tools.live](https://github.com/twhlynch/grab-tools.live) - A Grab VR "Modding" website, with tools and stats for the game.<br>
+[Roblox2Grab](https://github.com/twhlynch/Roblox2Grab) - Scripts and Guide to export a ROBLOX Studio map to Grab VR.<br>
+[Mp42Grab](https://github.com/twhlynch/Mp42Grab) - A script to convert videos into 30x30 grayscale animations in Grab VR<br>
+[Rayne-SGM-to-OBJ](https://github.com/twhlynch/Rayne-SGM-to-OBJ) - SGM to OBJ converter and Blender import plugin for Rayne SGM files<br>
+
+**Gtag fan-game modding**
+
+[Web-ADB-Menu](https://github.com/twhlynch/Web-ADB-Menu) - A web based ADB command menu<br>
+[QAutoDL](https://github.com/twhlynch/QAutoDL) - Automatically download Oculus VR apps right from your Browser.<br>
+[PlayFab-Spammer](https://github.com/twhlynch/PlayFab-Spammer) - A fast PlayFab user spammer and how to protect your game.<br>
+[PlayFab-Photon-Leak](https://github.com/twhlynch/PlayFab-Photon-Leak)<br>
+
+**Other modding**
+
+[Basic-APK-Modding-Guide](https://github.com/twhlynch/Basic-APK-Modding-Guide) - A simple guide to exploit a very specific vulnerability in some android games<br>
+
+**Things i will never finish**
+
+[checkers](https://github.com/twhlynch/checkers) - My first ever JS project<br>
+[chess](https://github.com/twhlynch/chess) - An attempt to create chess<br>
+[jspx-engine](https://github.com/twhlynch/jspx-engine) - An attempt at a 2D physics engine<br>
+
+**Mini projects**
+
+[indHEX-Hex-Editor](https://github.com/twhlynch/indHEX-Hex-Editor) - Simple, laggy, Hex Editor<br>
+[no-bitches](https://github.com/twhlynch/no-bitches) - no bitches meme site based on the chrome offline page<br>
+[windows-security-html](https://github.com/twhlynch/windows-security-html) - Realistic Windows security prompt recreated with HTML & CSS<br>
+[chaos-game](https://github.com/twhlynch/chaos-game) - Generates a Sierpinski triangle in the browser using the chaos game<br>
+[ImageGlitcher](https://github.com/twhlynch/ImageGlitcher) - Simple online image corrupter<br>
+[5-minute-mouse-game](https://github.com/twhlynch/5-minute-mouse-game) - Tiny mouse cursor based maze game<br>
