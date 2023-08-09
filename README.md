@@ -54,20 +54,17 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
 [Web-ADB-Menu](https://github.com/twhlynch/Web-ADB-Menu) - A web based ADB command menu<br>
 [QAutoDL](https://github.com/twhlynch/QAutoDL) - Automatically download Oculus VR apps right from your Browser.<br>
 [PlayFab-Spammer](https://github.com/twhlynch/PlayFab-Spammer) - A fast PlayFab user spammer and how to protect your game.<br>
-[PlayFab-Photon-Leak](https://github.com/twhlynch/PlayFab-Photon-Leak) - Automate a step in modding a PlayFab game<br>
 
-**Other modding**
+**Guides**
 
 [Basic-APK-Modding-Guide](https://github.com/twhlynch/Basic-APK-Modding-Guide) - A simple guide to exploit a very specific vulnerability in some android games<br>
 
-**Things i will never finish**
+**Old / Mini projects**
 
-[checkers](https://github.com/twhlynch/checkers) - My first ever JS project<br>
+[Not-Quite-Checkers](https://github.com/twhlynch/Not-Quite-Checkers) - Checkers with random scuffed mofifiers.<br>
+[checkers](https://github.com/twhlynch/checkers) - Basic checkers game attempt.<br>
 [chess](https://github.com/twhlynch/chess) - An attempt to create chess<br>
-[jspx-engine](https://github.com/twhlynch/jspx-engine) - An attempt at a 2D physics engine<br>
-
-**Mini projects**
-
+[jspx-engine](https://github.com/twhlynch/jspx-engine) - A failed attempt at a 2D physics engine<br>
 [indHEX-Hex-Editor](https://github.com/twhlynch/indHEX-Hex-Editor) - Simple, laggy, Hex Editor<br>
 [no-bitches](https://github.com/twhlynch/no-bitches) - no bitches meme site based on the chrome offline page<br>
 [windows-security-html](https://github.com/twhlynch/windows-security-html) - Realistic Windows security prompt recreated with HTML & CSS<br>
