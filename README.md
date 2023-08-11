@@ -57,7 +57,7 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
 
 **Guides**
 
-[Asset-APK-Modding-Guide](https://github.com/twhlynch/Asset-APK-Modding-Guide) - A guide to exploit a very specific vulnerability in android games that expose assets.<br>
+[APK-Modding-Guide](https://github.com/twhlynch/APK-Modding-Guide) - A guide to decompile, modify, and recompile android packages.<br>
 
 **Old / Mini projects**
 
