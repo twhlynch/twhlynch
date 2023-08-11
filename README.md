@@ -57,11 +57,11 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
 
 **Guides**
 
-[Basic-APK-Modding-Guide](https://github.com/twhlynch/Basic-APK-Modding-Guide) - A simple guide to exploit a very specific vulnerability in some android games<br>
+[Asset-APK-Modding-Guide](https://github.com/twhlynch/Asset-APK-Modding-Guide) - A guide to exploit a very specific vulnerability in android games that expose assets.<br>
 
 **Old / Mini projects**
 
-[Not-Quite-Checkers](https://github.com/twhlynch/Not-Quite-Checkers) - Checkers with random scuffed mofifiers.<br>
+[Not-Quite-Checkers](https://github.com/twhlynch/Not-Quite-Checkers) - Checkers with random scuffed modifiers.<br>
 [checkers](https://github.com/twhlynch/checkers) - Basic checkers game attempt.<br>
 [chess](https://github.com/twhlynch/chess) - An attempt to create chess<br>
 [jspx-engine](https://github.com/twhlynch/jspx-engine) - A failed attempt at a 2D physics engine<br>
