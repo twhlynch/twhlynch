@@ -26,6 +26,7 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
   <img src="https://img.shields.io/badge/-Python-58A6FF?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=282828">
   <img src="https://img.shields.io/badge/-PHP-7d668d?style=for-the-badge&logo=php&logoColor=7d668d&labelColor=282828">
   <img src="https://img.shields.io/badge/-C++-BEC6CE?style=for-the-badge&logo=cplusplus&logoColor=BEC6CE&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Lua-0c027d?style=for-the-badge&logo=lua&logoColor=0c027d&labelColor=282828">
   <br/>
   <img src="https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VScode&color=36465D&logoColor=AAA&style=flat-square">
   <img src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square">
