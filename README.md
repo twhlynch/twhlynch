@@ -49,5 +49,6 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
 [Mp42Grab](https://github.com/twhlynch/Mp42Grab) - A script to convert videos into 30x30 grayscale animations in Grab VR<br>
 [Rayne-SGM-to-OBJ](https://github.com/twhlynch/Rayne-SGM-to-OBJ) - SGM to OBJ converter and Blender import plugin for Rayne SGM files<br>
 [Web-ADB-Menu](https://github.com/twhlynch/Web-ADB-Menu) - A web based ADB command menu for Quest<br>
+[AutoModder](https://github.com/twhlynch/AutoModder) - Keyword based Unity APK modding util. Pairs well with [WDTM](https://github.com/twhlynch/AutoModder)<br>
 [APK-Modding-Guide](https://github.com/twhlynch/APK-Modding-Guide) - A basic guide to decompile, modify, and recompile android packages.<br>
 [Not-Quite-Checkers](https://github.com/twhlynch/Not-Quite-Checkers) - Checkers with random scuffed modifiers.<br>
