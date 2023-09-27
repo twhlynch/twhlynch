@@ -34,7 +34,7 @@ Discord: [@.index](https://discordapp.com/users/649165311257608192) | Website: [
 </div>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=twhlynch" height="150" alt="github stats"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=twhlynch" height="150" alt="github stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=twhlynch" height="150" alt="top languages"  />
 </div>
 
