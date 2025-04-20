@@ -8,7 +8,7 @@
   <a href="mailto:tom@twhlynch.me">email</a>
 </samp>
 <br/><br/>
-Hey, I'm Tom Lynch aka index. I'm a 19 y/o CS student & tutor and Web & Game Software developer.
+Hey, I'm Tom Lynch aka index. I'm a 20 y/o CS student & tutor and Web & Game Software developer.
 <br/><br/>
 
 **Currently I am:**
