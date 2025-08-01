@@ -20,9 +20,6 @@ Hey, I'm Tom Lynch aka index. I'm a 20 y/o CS student & tutor and Web & Game Sof
 - Freelance website development every so often
 
 **Main skills**
-- Web development basics: JS, TS, CSS, HTML
-- More abstracted web technologies: React, Vue, and Astro, and THREE.js
-- C++ for game development
-- Other programming languages: Python, Java, PHP, Zig, SQL, Lua, glsl
+- Nothing
 
 ![Spider Lily](https://github.com/twhlynch/halftones/blob/main/example.svg)
