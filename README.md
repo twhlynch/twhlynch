@@ -25,4 +25,4 @@ Hey, I'm Tom Lynch aka index. I'm a 20 y/o CS student & tutor and Web & Game Sof
 - C++ for game development
 - Other programming languages: Python, Java, PHP, Zig, SQL, Lua, glsl
 
-![Spider Lily](https://github.com/twhlynch/halftones/blob/main/example.svg)
+![Spider Lily](https://raw.githubusercontent.com/twhlynch/halftones/refs/heads/main/example.svg)
